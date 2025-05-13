@@ -1,0 +1,234 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Speed</title>
+
+    <link rel="shortcut icon" href="~/Files/Images/car in logo.png" />
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+@*     <link rel="stylesheet" href="~/css/Car project.css" asp-append-version="true" />
+ *@
+
+
+    @RenderSection("Styles", required: false)
+</head>
+
+
+<body class="d-flex flex-column min-vh-100">
+
+
+    <header class="main header">
+        <div class="logo">
+            <a asp-controller="Home" asp-action="Index">
+                <img src="~/Files/Images/Logooo.png" width="100" alt="Logo" />
+            </a>
+        </div>
+        <ul class="nav-links" type="none">
+            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-controller="Car" asp-action="AddCar">Add Car</a></li>
+            <li><a asp-controller="Home" asp-action="AboutUs">About us</a></li>
+            <li>
+                <a asp-controller="Account" asp-action="Login">
+                    <img src="~/Files/Images/user black.png" alt="User" width="30" height="30" />
+                </a>
+            </li>
+        </ul>
+
+
+
+
+
+        <br>
+
+
+        <div class="text">
+            <h6>
+                Drive your dreams.<br />
+                Whether you're looking to own or rent we offer the perfect car for every journey.<br />
+                Premium quality, unbeatable deals, and the ride you deserve — all in one place.
+            </h6>
+        </div>
+
+     
+
+        <section class="research-type-section text-center mb-5">
+            <div class="search-buttons">
+                <a asp-controller="Home"
+                   asp-action="Sale"
+                   class="btn-cta pulse">
+                    Buy
+                </a>
+                <a asp-controller="Home"
+                   asp-action="Rent"
+                   class="btn-cta pulse rent">
+                    Rent
+                </a>
+            </div>
+        </section>
+
+
+
+
+
+    </header>
+
+
+    <main class="flex-fill">
+        @RenderBody()
+    </main>
+
+
+    <footer class="bg-gradient text-dark pt-4 border-bottom ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-start mb-3 mb-md-0">
+                    <h2 class="h5 mb-3">Follow Us</h2>
+                    <ul class="list-inline mb-3">
+                        <li class="list-inline-item"><a href="https://www.youtube.com/"><img src="~/Files/Images/youtube.png" alt="YouTube" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/"><img src="~/Files/Images/Instagram.png" alt="Instagram" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.tiktok.com/"><img src="~/Files/Images/tiktok.png" alt="TikTok" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/"><img src="~/Files/Images/linkedin.png" alt="LinkedIn" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/"><img src="~/Files/Images/facebook.png" alt="Facebook" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://x.com/"><img src="~/Files/Images/Tiwtter.png" alt="X" width="25" /></a></li>
+                    </ul>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="AboutUs">About Us</a></li>
+                        <li class="list-inline-item"><a href="https://www.whatsapp.com/">Contact Us</a></li>
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="Privacy">Privacy Policy</a></li>
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="Terms">Terms & Conditions</a></li>
+                    </ul>
+
+                    <p class="small">&copy; @DateTime.Now.Year Speed. All Rights Reserved | Designed by Beyond The Stack</p>
+
+
+                </div>
+
+                <div class="col-md-6 text-md-end text-start">
+                    <p class="h5 mb-2">Download the app</p>
+                    <ul class="list-inline mb-2">
+                        <li class="list-inline-item">
+                            <a href="https://www.apple.com/eg/app-store/">
+                                <img src="~/Files/Images/Appstore.png" alt="App Store" width="80" height="25" />
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://play.google.com/store/games?hl=en&pli=1">
+                                <img src="~/Files/Images/Googleplay.png" alt="Google Play" width="80" height="25" />
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="h6 mb-1">Contact info:</p>
+                    <ul class="list-unstyled">
+                        <li>Email: <a href="mailto:beyond_the_stack@gmail.com">beyond_the_stack@gmail.com</a></li>
+                        <li>Phone: +20 111 122 2223</li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+    </footer>
+
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CarApplication.PL</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CarApplication.PL.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CarApplication.PL</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - CarApplication.PL - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+ *@
+
+
+
+
+

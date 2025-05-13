@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/Car project.css" asp-append-version="true" />
+   @*  <link rel="stylesheet" href="~/css/rent_style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+
+} 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="video">
+    <video id="myVideo" width="100" muted loop autoplay>
+        <source src="~/Files/Videos/Pin by XMOTORusBmw_1 - Copy.mp4" type="video/mp4" />
+        Your browser does not support HTML5 video.
+    </video>
+    <div class="text-section">
+        <h3>Find Your Perfect Car – Buy or Rent</h3>
+        <p>
+            Looking for a reliable car? Whether you want to buy your dream car<br />
+            or rent it for a short period, we have a wide selection to choose from.<br />
+            Browse our options and find the perfect vehicle for your needs.<br />
+            Fast, reliable, and affordable!
+        </p>
+    </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<section class="banner-strip">
+    <img src="~/Files/Images/IMG-20250422-WA0016.jpg" alt="Speed Car Banner" />
+</section>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<section class="browse-brand-section" id="browse-brand-section">
+    <h2>Browse by brand</h2>
+    <br>
+    <div class="brand-logos">
+        <div class="brand-logo">
+            <img src="~/Files/Images/audi logo.png" alt="Audi" />
+            <p>AUDI</p>
+        </div>
+        <div class="brand-logo">
+            <img src="~/Files/Images/BMW_logo.svg.png" alt="BMW" />
+            <p>BMW</p>
+        </div>
+        <div class="brand-logo">
+            <img src="~/Files/Images/Mercedes_benz_logo.png" alt="Mercedes‑Benz" />
+            <p>Mercedes‑Benz</p>
+        </div>
+        <div class="brand-logo">
+            <img src="~/Files/Images/Volvo.png" alt="Volvo" />
+            <p>VOLVO</p>
+        </div>
+    </div>
+</section>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+@section Scripts {
+    <script src="~/js/script.js" asp-append-version="true"></script>
+}

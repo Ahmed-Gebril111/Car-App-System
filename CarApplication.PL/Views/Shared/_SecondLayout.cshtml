@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <link rel="shortcut icon" href="~/Files/Images/car in logo.png" />
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+
+
+
+    @RenderSection("Styles", required: false)
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+
+
+    <header class="main header">
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg bg-primary ">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white d-flex align-items-center" asp-controller="Home" asp-action="Index">
+                    <img src="~/Files/Images/Logooo.png" alt="Speed Logo" width="90" class="me-2" />
+                </a>
+
+
+
+                <div class="collapse navbar-collapse" id="mainNav">
+                    <ul class="navbar-nav ms-auto align-items-center">
+                        <li class="nav-item me-2">
+                            <a class="nav-link text-white fs-5 fw-bold" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link text-white fs-5 fw-bold" asp-controller="Home" asp-action="Sale">Sale</a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link text-white fs-5 fw-bold" asp-controller="Home" asp-action="Rent">Rent</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-controller="Account" asp-action="Login">
+                                <img src="~/Files/Images/user black.png" alt="User" width="30" height="30" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </nav>
+
+        <div class="bg-primary text-white"
+             style="
+      margin-top: -2.75rem;
+      padding: 2rem 0;
+      border-radius: 0 0 6rem 6rem;">
+            <div class="container">
+                <h1 class="display-4 text-center mb-0 fw-bold">@ViewData["Title1"]</h1>
+            </div>
+        </div>
+    </header>
+
+    <main class="flex-fill">
+        @RenderBody()
+    </main>
+
+
+    <footer class="bg-gradient text-dark pt-4 mt-md-auto border-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 text-start mb-3 mb-md-0">
+                    <h2 class="h5 mb-3">Follow Us</h2>
+                    <ul class="list-inline mb-3">
+                        <li class="list-inline-item"><a href="https://www.youtube.com/"><img src="~/Files/Images/youtube.png" alt="YouTube" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.instagram.com/"><img src="~/Files/Images/Instagram.png" alt="Instagram" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.tiktok.com/"><img src="~/Files/Images/tiktok.png" alt="TikTok" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/"><img src="~/Files/Images/linkedin.png" alt="LinkedIn" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://www.facebook.com/"><img src="~/Files/Images/facebook.png" alt="Facebook" width="25" /></a></li>
+                        <li class="list-inline-item"><a href="https://x.com/"><img src="~/Files/Images/Tiwtter.png" alt="X" width="25" /></a></li>
+                    </ul>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="AboutUs">About Us</a></li>
+                        <li class="list-inline-item"><a href="https://www.whatsapp.com/">Contact Us</a></li>
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="Privacy">Privacy Policy</a></li>
+                        <li class="list-inline-item"><a asp-controller="Home" asp-action="Terms">Terms & Conditions</a></li>
+                    </ul>
+
+                    <p class="small">&copy; @DateTime.Now.Year Speed. All Rights Reserved | Designed by Beyond The Stack</p>
+
+
+                </div>
+
+                <div class="col-md-6 text-md-end text-start">
+                    <p class="h5 mb-2">Download the app</p>
+                    <ul class="list-inline mb-2">
+                        <li class="list-inline-item">
+                            <a href="https://www.apple.com/eg/app-store/">
+                                <img src="~/Files/Images/Appstore.png" alt="App Store" width="80" height="25" />
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://play.google.com/store/games?hl=en&pli=1">
+                                <img src="~/Files/Images/Googleplay.png" alt="Google Play" width="80" height="25" />
+                            </a>
+                        </li>
+                    </ul>
+                    <p class="h6 mb-1">Contact info:</p>
+                    <ul class="list-unstyled">
+                        <li>Email: <a href="mailto:beyond_the_stack@gmail.com">beyond_the_stack@gmail.com</a></li>
+                        <li>Phone: +20 111 122 2223</li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+    </footer>
+
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

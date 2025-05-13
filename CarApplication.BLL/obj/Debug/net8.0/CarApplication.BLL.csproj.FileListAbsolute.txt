@@ -1,0 +1,15 @@
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\bin\Debug\net8.0\CarApplication.BLL.deps.json
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\bin\Debug\net8.0\CarApplication.BLL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\bin\Debug\net8.0\CarApplication.BLL.pdb
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\bin\Debug\net8.0\CarApplication.DAL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\bin\Debug\net8.0\CarApplication.DAL.pdb
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.csproj.AssemblyReference.cache
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.AssemblyInfoInputs.cache
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.AssemblyInfo.cs
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarAppli.AB532DEB.Up2Date
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\refint\CarApplication.BLL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\CarApplication.BLL.pdb
+D:\Projects\CarApplication.PL.S1\CarApplication.BLL\obj\Debug\net8.0\ref\CarApplication.BLL.dll

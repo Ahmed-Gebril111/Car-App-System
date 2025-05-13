@@ -1,0 +1,150 @@
+﻿@model CarViewModel
+@{
+    ViewData["Title"] = "AddCar";
+    ViewData["Title1"] = "Add New Car";
+    Layout = "~/Views/Shared/_SecondLayout.cshtml";
+
+}
+
+
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/Addcar.css" asp-append-version="true" />
+
+}
+
+<br>
+<br>
+
+<form asp-action="AddCar" enctype="multipart/form-data" class="car-form">
+
+
+
+    <div class="mb-3">
+        <label asp-for="OperationType" class="form-label">Car Type</label>
+        <select asp-for="OperationType" class="form-select" asp-items="Html.GetEnumSelectList<OperationType>()">
+            <option value="">-- Select --</option>
+        </select>
+    </div>
+
+  
+        <div class="mb-3">
+            <label class="form-label">Car Features : </label>
+            <div class="form-check">
+                <input type="checkbox" name="Features" value="Bluetooth" class="form-check-input" id="featureBluetooth" />
+                <label class="form-check-label" for="featureBluetooth">Bluetooth</label>
+            </div>
+            <div class="form-check">
+                <input type="checkbox" name="Features" value="TirePressureWarning" class="form-check-input" id="featureTirePressureWarning" />
+                <label class="form-check-label" for="featureTirePressureWarning">Tire Pressure Warning</label>
+            </div>
+            <div class="form-check">
+                <input type="checkbox" name="Features" value="ParkingSensors" class="form-check-input" id="featureParkingSensors" />
+                <label class="form-check-label" for="featureParkingSensors">Parking Sensors</label>
+            </div>
+            <div class="form-check">
+                <input type="checkbox" name="Features" value="RearviewCamera" class="form-check-input" id="featureRearviewCamera" />
+                <label class="form-check-label" for="featureRearviewCamera">Rearview Camera</label>
+            </div>
+            <div class="form-check">
+                <input type="checkbox" name="Features" value="InfotainmentScreen" class="form-check-input" id="featureInfotainmentScreen" />
+                <label class="form-check-label" for="featureInfotainmentScreen">Infotainment Screen</label>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+    <div class="row">
+        <input asp-for="ImageName" hidden />
+
+        <div class="col-md-6 mb-3">
+            <label asp-for="Brand" class="form-label"></label>
+            <input asp-for="Brand" class="form-control" />
+            <span asp-validation-for="Brand" class="text-danger"></span>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label asp-for="ModelYear" class="form-label"></label>
+            <input asp-for="ModelYear" class="form-control" />
+            <span asp-validation-for="ModelYear" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label asp-for="Price" class="form-label"></label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="Color" class="form-label"></label>
+            <input asp-for="Color" class="form-control" />
+            <span asp-validation-for="Color" class="text-danger"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="FuelType" class="form-label"></label>
+            <input asp-for="FuelType" class="form-control" />
+            <span asp-validation-for="FuelType" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label asp-for="EngineType" class="form-label"></label>
+            <input asp-for="EngineType" class="form-control" />
+            <span asp-validation-for="EngineType" class="text-danger"></span>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label asp-for="Miles" class="form-label"></label>
+            <input asp-for="Miles" class="form-control" />
+            <span asp-validation-for="Miles" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8 mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="History" class="form-label"></label>
+            <textarea asp-for="History" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="History" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label asp-for="Transmission" class="form-label"></label>
+            <input asp-for="Transmission" class="form-control" />
+            <span asp-validation-for="Transmission" class="text-danger"></span>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label asp-for="Seats" class="form-label"></label>
+            <input asp-for="Seats" class="form-control" />
+            <span asp-validation-for="Seats" class="text-danger"></span>
+        </div>
+    </div>
+
+    
+    <div class="mb-4">
+        <label asp-for="Image" class="form-label">Car Images (up to 3)</label>
+        <input asp-for="Image" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Car</button>
+
+
+
+
+</form>
+
+<br>
+<br>
+

@@ -1,0 +1,693 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CarApplication.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarApplication.PL.3nme31aepc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\116d39be-97fb-48f3-a8fa-4fb605354990skoda.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\116d39be-97fb-48f3-a8fa-4fb605354990skoda.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\2022-range-rover.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\2022-range-rover.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\2023-kia-sportage-hybrid.webp",
+      "PackagePath": "staticwebassets\\Files\\Images\\2023-kia-sportage-hybrid.webp"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\2024-kia-sportage-hybrid_landing_639001.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\2024-kia-sportage-hybrid_landing_639001.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\2249ddfe-0100-4fd0-8403-aa92d62629eaBMWw.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\2249ddfe-0100-4fd0-8403-aa92d62629eaBMWw.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\28534f17-1da7-428b-9c16-580558be0840BMWw.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\28534f17-1da7-428b-9c16-580558be0840BMWw.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\384db0b6-a6bd-4cc0-8df8-e8227279f65eCar2.jfif",
+      "PackagePath": "staticwebassets\\Files\\Images\\384db0b6-a6bd-4cc0-8df8-e8227279f65eCar2.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\5106394f-7001-48af-9851-02b085371ee4white mercedesssssss.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\5106394f-7001-48af-9851-02b085371ee4white mercedesssssss.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\55e5725a-4b7f-4a35-95a5-e4e5df644365BMWw.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\55e5725a-4b7f-4a35-95a5-e4e5df644365BMWw.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\62dbbcb2-5652-4d33-889c-066cf010dce6white mercedesssssss.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\62dbbcb2-5652-4d33-889c-066cf010dce6white mercedesssssss.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\9a0adcbc-c67d-4147-903c-c2f4e7cdcc92mercedes.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\9a0adcbc-c67d-4147-903c-c2f4e7cdcc92mercedes.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\9a473864-12bf-4c02-b29f-6f31c7a7a8b9Audiiiii.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\9a473864-12bf-4c02-b29f-6f31c7a7a8b9Audiiiii.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Appstore.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Appstore.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Audi.avif",
+      "PackagePath": "staticwebassets\\Files\\Images\\Audi.avif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Audi.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Audi.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Audiiiii.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Audiiiii.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Aya2.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\Aya2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\BMW.avif",
+      "PackagePath": "staticwebassets\\Files\\Images\\BMW.avif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\BMW.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\BMW.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\BMW_logo.svg.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\BMW_logo.svg.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\BMWw.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\BMWw.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\CAR des.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\CAR des.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\CAR.jfif",
+      "PackagePath": "staticwebassets\\Files\\Images\\CAR.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Car2.jfif",
+      "PackagePath": "staticwebassets\\Files\\Images\\Car2.jfif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Download app store.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Download app store.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Facebook.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Facebook.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Googleplay.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Googleplay.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Hyundai_verna_564a574a32.webp",
+      "PackagePath": "staticwebassets\\Files\\Images\\Hyundai_verna_564a574a32.webp"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\IMG-20250422-WA0016.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\IMG-20250422-WA0016.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Instagram.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Instagram.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Linkedin.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Linkedin.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Logooo.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Logooo.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\MG_HS.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\MG_HS.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Mercedes-Benz.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Mercedes-Benz.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Mercedes_benz_logo.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Mercedes_benz_logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Notification.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Notification.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Photo.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\Photo.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\RSS.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\RSS.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Search.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Search.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Tiktok.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Tiktok.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Tiwtter.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Tiwtter.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Untitled.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Untitled.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\User profile.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\User profile.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Volvo.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Volvo.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\WhatsApp Image 2025-04-14 at 1.56.39 AM.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\WhatsApp Image 2025-04-14 at 1.56.39 AM.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Yasmena.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\Yasmena.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Youtube.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\Youtube.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\Zeinab.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\Zeinab.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\a647d3fb-4701-43b5-b091-a24c4b3265d6volvo-xc90-001.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\a647d3fb-4701-43b5-b091-a24c4b3265d6volvo-xc90-001.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\audi logo.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\audi logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\blue BMW M4.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\blue BMW M4.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\car in logo.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\car in logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\car1.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\car1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\car2.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\car2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\car3.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\car3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\corola2.webp",
+      "PackagePath": "staticwebassets\\Files\\Images\\corola2.webp"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\d9a6b9b9-ac89-416f-85aa-307f4af4540f2022-range-rover.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\d9a6b9b9-ac89-416f-85aa-307f4af4540f2022-range-rover.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\da7da7.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\da7da7.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\download google play.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\download google play.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\download_(1)_(1)[1].png",
+      "PackagePath": "staticwebassets\\Files\\Images\\download_(1)_(1)[1].png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\fire.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\fire.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\icon.ico",
+      "PackagePath": "staticwebassets\\Files\\Images\\icon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\image 1.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\image 1.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\image 2.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\image 2.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\image 3.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\image 3.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\image 4.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\image 4.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\image 5.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\image 5.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\insta.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\insta.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logo.ico",
+      "PackagePath": "staticwebassets\\Files\\Images\\logo.ico"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logo2-removebg-preview - Copy.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\logo2-removebg-preview - Copy.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logo2-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\logo2-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logo2.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\logo2.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logowhite - Copy.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\logowhite - Copy.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\logowhite.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\logowhite.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\mercedes.avif",
+      "PackagePath": "staticwebassets\\Files\\Images\\mercedes.avif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\mercedes.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\mercedes.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\notifications.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\notifications.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\skoda.avif",
+      "PackagePath": "staticwebassets\\Files\\Images\\skoda.avif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\skoda.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\skoda.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\skoda1.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\skoda1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\skodain.webp",
+      "PackagePath": "staticwebassets\\Files\\Images\\skodain.webp"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\skodain2.webp",
+      "PackagePath": "staticwebassets\\Files\\Images\\skodain2.webp"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\user black.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\user black.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\user.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\user.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\volvo-xc90-001.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\volvo-xc90-001.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\white mercedes.avif",
+      "PackagePath": "staticwebassets\\Files\\Images\\white mercedes.avif"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\white mercedesssssss.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\white mercedesssssss.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\x.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\x.png"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Images\\ليموزين.webp",
+      "PackagePath": "staticwebassets\\Files\\Images\\ليموزين.webp"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Videos\\Pin by XMOTORusBmw_1 - Copy.mp4",
+      "PackagePath": "staticwebassets\\Files\\Videos\\Pin by XMOTORusBmw_1 - Copy.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Videos\\Pin by XMOTORusBmw_1.mp4",
+      "PackagePath": "staticwebassets\\Files\\Videos\\Pin by XMOTORusBmw_1.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Videos\\V.mp4",
+      "PackagePath": "staticwebassets\\Files\\Videos\\V.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\Files\\Videos\\Video.mp4",
+      "PackagePath": "staticwebassets\\Files\\Videos\\Video.mp4"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\About-Us.css",
+      "PackagePath": "staticwebassets\\css\\About-Us.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\Addcar.css",
+      "PackagePath": "staticwebassets\\css\\Addcar.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\Car project.css",
+      "PackagePath": "staticwebassets\\css\\Car project.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\check.css",
+      "PackagePath": "staticwebassets\\css\\check.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\privacy.css",
+      "PackagePath": "staticwebassets\\css\\privacy.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\rent_style.css",
+      "PackagePath": "staticwebassets\\css\\rent_style.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\sale&rent.css",
+      "PackagePath": "staticwebassets\\css\\sale&rent.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\css\\terms.css",
+      "PackagePath": "staticwebassets\\css\\terms.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\js\\check-rent.js",
+      "PackagePath": "staticwebassets\\js\\check-rent.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\js\\check.js",
+      "PackagePath": "staticwebassets\\js\\check.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\CarApplication.PL.S1\\CarApplication.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarApplication.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarApplication.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarApplication.PL.props",
+      "PackagePath": "build\\CarApplication.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarApplication.PL.props",
+      "PackagePath": "buildMultiTargeting\\CarApplication.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarApplication.PL.props",
+      "PackagePath": "buildTransitive\\CarApplication.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

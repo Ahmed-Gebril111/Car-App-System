@@ -1,0 +1,87 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    /*  margin-bottom: 60px;
+*/
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* CarProject.css */
+
+/* Container styling */
+.research-type-section {
+    text-align: center;
+    margin: 3rem 9rem;
+}
+
+
+
+
+
+
+/* Button wrapper 
+*/.research-type-section__buttons {
+    display: inline-flex;
+    gap: 2.5rem;
+}
+
+
+.search-buttons {
+    display: inline-flex;
+    gap: 10rem;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: -110px; 
+}
+
+.btn-cta {
+    display: inline-block;
+    width: 20%;
+    padding: 1rem;
+    background: #035fc7;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    border: none;
+    border-radius: 0.75rem;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+    .btn-cta:hover {
+        background: #024a9c;
+    }
+
+.pulse {
+    animation: pulse 2s infinite;
+}
+
+
+
+
+
+
+
+
+
+

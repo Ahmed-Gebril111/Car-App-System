@@ -1,0 +1,180 @@
+/*header*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+
+header {
+    width: 100%;
+    height: 180px;
+    color: white;
+    background-color: #1e6ee9;
+    text-align: left;
+    top: 0;
+    border-radius: 0px 0px 90px 90px;
+ /* padding-bottom: 20px;*/
+    margin-bottom: 30px;
+}
+
+#logo {
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.ull {
+    padding: 0%;
+    font-size: large;
+    font-weight: bold;
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    margin-top: -65px;
+    margin-right: 25px;
+    justify-content: end;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* end of header
+*/
+body{
+    background-color: #f2f2f2;
+}
+#start{
+    margin-left: 80px;
+    margin-right: 55px;
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 35px;
+    padding-top: 40px;
+}
+h2{
+    color:#1e6ee9;
+    font-size: 20px;
+    line-height: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.rules{
+    line-height: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: white;
+    border-radius: 25px ;
+    border: solid black 1px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+p{
+   
+    
+    padding-left: 60px;
+    margin-bottom: 15px;
+}
+/*h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}*/
+span {
+    color: #1e6ee9;
+}
+#que{
+    margin-left: 310px;
+}
+
+/* Footer Section 
+*/
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: #d8d6d6;
+    box-shadow: 0 -4px 6px -2px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    border-radius: 90px 90px 0px 0px;
+    color: black;
+}
+
+#follow {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+#fo {
+    font-size: large;
+    margin-left: 70px;
+    padding-top: 30px;
+}
+
+a {
+    color: black;
+}
+
+#footlink {
+
+    font-size: small;
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+#copyrights {
+    font-size: small;
+    margin-top: 20px;
+    margin-left: 40px;
+    list-style-type: none;
+}
+
+#downsec {
+    margin-left: 950px;
+    margin-top: -140px;
+
+}
+
+#downlinks {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+#down {
+    font-size: large;
+    margin-left: -35px;
+    margin-bottom: 10px
+}
+
+#contact {
+    list-style-type: none;
+    font-size: small;
+
+}
+
+#contactinfo {
+    font-size: small;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+

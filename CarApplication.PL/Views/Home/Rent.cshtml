@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "Rent";
+    ViewData["Title1"] = "Cars For Rent In Egypt";
+    Layout = "~/Views/Shared/_SecondLayout.cshtml";
+}
+
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/sale&rent.css" asp-append-version="true" />
+
+}
+
+
+
+
+
+
+
+
+<section class="topp mb-5">
+    <h2 class="h5 mb-3">
+        <img src="~/Files/Images/fire.png" alt="fire" width="20" class="me-2 align-text-bottom" />
+        Top Picks this week
+    </h2>
+    <ul id="picks" class="d-flex list-unstyled gap-3">
+        <li><a href="#" id="photo1" class="d-block"></a></li>
+        <li><a href="#" id="photo2" class="d-block"></a></li>
+        <li><a href="#" id="photo3" class="d-block"></a></li>
+    </ul>
+</section>
+
+<section class="Sale">
+    <h2 class="h5 mb-4">
+        <img id="logocar"
+             src="~/Files/Images/car in logo.png"
+             alt="car"
+             width="55" height="21"
+             class="me-2 align-text-bottom" />
+        Cars For Rent
+    </h2>
+
+
+    <ul id="salecars" class="list-unstyled d-flex flex-wrap gap-4">
+        @foreach (var car in Model)
+        {
+            <li class="sale-card-wrapper">
+                <a asp-controller="Car"
+                   asp-action="Details"
+                   asp-route-id="@car.Id"
+                   class="sale-card"
+                   style="background-image: url('@Url.Content("~/Files/Images/" + car.ImageName)')">
+                    <div class="sale-info">
+                        <h5>@car.Brand @car.ModelYear</h5>
+                        <span class="price">EGP @car.Price.ToString("N0")</span>
+                    </div>
+                </a>
+            </li>
+        }
+    </ul>
+
+
+    <br>
+
+
+</section>
+<br>

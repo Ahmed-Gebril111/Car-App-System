@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewData["Title"] = "Terms";
+    ViewData["Title1"] = "Terms & Conditions";
+    Layout = "~/Views/Shared/_SecondLayout.cshtml";
+}
+
+
+@section Styles {
+
+    <link rel="stylesheet" href="~/css/terms.css" asp-append-version="true" />
+    @*     <link rel="stylesheet" href="~/css/Addcar.css" asp-append-version="true" />
+ *@
+
+}
+
+<div class="container py-4">
+    <div id="start" class="mb-4">
+        <strong>
+            Welcome to our Car Rental and Sales website. By accessing or using our services, you agree to the
+            following terms and conditions:
+        </strong>
+    </div>
+
+    <div class="rules mb-4">
+        <h2>1. Rental Policy</h2>
+        <p>Customers must provide a valid driving license and be at least 21 years old to rent a car.</p>
+    </div>
+
+    <div class="rules mb-4">
+        <h2>2. Payment</h2>
+        <p>
+            All payments must be completed before the rental period. We accept credit cards, debit cards, and online
+            transfers.
+        </p>
+    </div>
+
+    <div class="rules mb-4">
+        <h2>3. Cancellation</h2>
+        <p>
+            Cancellations made 24 hours before the rental start time will be fully refunded. Later cancellations may
+            be subject to a fee.
+        </p>
+    </div>
+
+    <div class="rules mb-4">
+        <h2>4. Liability</h2>
+        <p>
+            The customer is responsible for any damage to the vehicle during the rental period, unless covered by
+            insurance.
+        </p>
+    </div>
+
+    <div class="rules mb-4">
+        <h2>5. Sales Terms</h2>
+        <p>All car sales are final. Customers are advised to inspect the car thoroughly before purchase.</p>
+    </div>
+
+    <div class="rules mb-4">
+        <h2>6. Changes to Terms</h2>
+        <p>
+            We reserve the right to update these terms at any time. Continued use of our services constitutes
+            acceptance of the updated terms.
+        </p>
+    </div>
+
+    <p id="que" class="mt-4 fs-5">
+        <strong>
+            For any questions, please contact us at
+            <a href="mailto:beyond_the_stack@gmail.com">beyond_the_stack@gmail.com</a>.
+        </strong>
+    </p>
+</div>

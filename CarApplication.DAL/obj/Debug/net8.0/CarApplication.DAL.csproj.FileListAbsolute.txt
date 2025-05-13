@@ -1,0 +1,12 @@
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\bin\Debug\net8.0\CarApplication.DAL.deps.json
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\bin\Debug\net8.0\CarApplication.DAL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\bin\Debug\net8.0\CarApplication.DAL.pdb
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.csproj.AssemblyReference.cache
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.AssemblyInfoInputs.cache
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.AssemblyInfo.cs
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\refint\CarApplication.DAL.dll
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\CarApplication.DAL.pdb
+D:\Projects\CarApplication.PL.S1\CarApplication.DAL\obj\Debug\net8.0\ref\CarApplication.DAL.dll

@@ -1,0 +1,109 @@
+﻿@model CarViewModel
+@{
+    ViewData["Title"] = Model.Brand + " Details";
+    Layout = "~/Views/Shared/_SecondLayout.cshtml";
+    var features = Model.Features ?? new List<string>();
+
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/sale&rent.css" asp-append-version="true" />
+
+}
+
+
+
+
+
+
+
+
+<div class="detail-container">
+    <div class="image-section fade-in">
+        <img id="main-car-image"
+             src="~/Files/Images/@Model.ImageName"
+             alt="@Model.Brand @Model.ModelYear"
+             class="car-image" />
+    </div>
+
+    <div class="info-section slide-up">
+        <h2>@Model.Brand @Model.ModelYear</h2>
+        <p class="price">EGP @Model.Price.ToString("N0")</p>
+        <p class="description">@Model.Description</p>
+
+       
+
+        <!-- New details list -->
+        <ul class="car-specs">
+            <li><i class="bi bi-speedometer2"></i> 🚗 <strong> Mileage : </strong> @Model.Miles.ToString("N0") miles</li>
+            <li><i class="bi bi-journal-text"></i> 🧾 <strong> History : </strong> @Model.History</li>
+            <li><i class="bi bi-gear-fill"></i> ⚙️ <strong> Transmission : </strong> @Model.Transmission</li>
+            <li><i class="bi bi-model-year"></i> 📅 <strong> Model Year : </strong> @Model.ModelYear</li>
+            <li><i class="bi bi-fuel-pump-fill"></i> ⛽ <strong> Fuel Type : </strong> @Model.FuelType</li>
+            <li><i class="bi bi-palette-fill"></i> 🎨 <strong> Color : </strong> @Model.Color</li>
+            <li><i class="bi bi-people-fill"></i> 🪑 <strong> Seats : </strong> @Model.Seats</li>
+        </ul>
+
+        @if (features.Any())
+        {
+            <ul class="features">
+                @foreach (var feat in features)
+                {
+                    <li class="badge">@feat</li>
+                }
+            </ul>
+        }
+
+        <form asp-controller="Car" asp-action="CheckAvailability" method="get">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button type="submit" class="btn-cta pulse">Check Availability</button>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+@* 
+
+<div class="detail-container">
+    <div class="image-section fade-in">
+        <img id="main-car-image"
+             src="~/Files/Images/@Model.ImageName"
+             alt="@Model.Brand @Model.ModelYear"
+             class="car-image" />
+    </div>
+
+    <div class="info-section slide-up">
+        <h2>@Model.Brand @Model.ModelYear</h2>
+        <p class="price">EGP @Model.Price.ToString("N0")</p>
+        <p class="description">@Model.Description</p>
+
+        @if (features.Any())
+        {
+            <ul class="features">
+                @foreach (var feat in features)
+                {
+                    <li class="badge">@feat</li>
+                }
+            </ul>
+        }
+
+        <form asp-controller="Car" asp-action="CheckAvailability" method="get">
+            <input type="hidden" name="id" value="@Model.Id" />
+            <button type="submit" class="btn-cta pulse">Check Availability</button>
+        </form>
+    </div>
+</div>
+ *@
+
+
+
+
+
